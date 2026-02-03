@@ -1,6 +1,6 @@
-## Break the Trade-off Between Watermark Strength and Speculative Sampling Efficiency for Language Models
+## Improve the Trade-off Between Watermark Strength and Speculative Sampling Efficiency for Language Models
 
-This repository contains the official implementation for the ICLR 2026 paper **“Break the Trade-off Between Watermark Strength and Speculative Sampling Efficiency for Language Models.”**
+This repository contains the official implementation for the ICLR 2026 paper **“Improve the Trade-off Between Watermark Strength and Speculative Sampling Efficiency for Language Models.”**
 
 **Codebase origin (2 prior works):**
 - [work 1](https://arxiv.org/abs/2410.20418): *“Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models”* — provides the overall experimental framework.
